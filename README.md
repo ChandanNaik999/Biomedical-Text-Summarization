@@ -8,3 +8,6 @@ Throughout the last decade, the scientific community has been increasingly payin
 
 
   For the evaluation step, we query wikipedia to gather biomedical data. The rouge score which is a popular measure for text analysis is used to compare the proposed method with the existing methods such as the Gensim, TextRank and Cosine method. We particularly use the Rouge-1, Rouge-2 and Rouge-L for the comparison.
+  
+  
+Download the metamap library from here: [Metamap](https://metamap.nlm.nih.gov/MainDownload.shtml)
